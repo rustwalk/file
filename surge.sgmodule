@@ -9,3 +9,13 @@ DOMAIN-SUFFIX,rustwalk.com,DIRECT
 DOMAIN-SUFFIX,oppomobile.com,DIRECT
 DOMAIN-SUFFIX,allawntech.com,DIRECT
 DOMAIN-SUFFIX,heytapmobi.com,DIRECT
+
+DOMAIN,connectivitycheck.gstatic.com,DIRECT
+DOMAIN,connectivitycheck.android.com,DIRECT
+DOMAIN,clients3.google.com,DIRECT
+DOMAIN,clients1.google.com,DIRECT
+DOMAIN,generate_204,DIRECT
+DOMAIN-SUFFIX,gstatic.com,DIRECT
+DOMAIN-SUFFIX,googleapis.com,DIRECT
+DOMAIN-SUFFIX,google.com,DIRECT
+DOMAIN-SUFFIX,oneplus.com,DIRECT
