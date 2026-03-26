@@ -1,0 +1,10 @@
+#!name=自定义规则
+
+[Host]
+rustwalk.com = 192.168.0.4
+
+[Rule]
+DOMAIN-SUFFIX,rustwalk.com,DIRECT
+
+[DNS]
+skip-proxy = rustwalk.com
