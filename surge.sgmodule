@@ -6,8 +6,6 @@ rustwalk.com = 192.168.0.4
 [Rule]
 DOMAIN-SUFFIX,rustwalk.com,DIRECT
 
-DOMAIN,connectivity.heytapdownload.com,DIRECT
-DOMAIN,detect.hismarttv.com,DIRECT
-DOMAIN,wifi.oppo.com,DIRECT
 DOMAIN-SUFFIX,oppomobile.com,DIRECT
-DOMAIN-SUFFIX,coloros.com,DIRECT
+DOMAIN-SUFFIX,allawntech.com,DIRECT
+DOMAIN-SUFFIX,heytapmobi.com,DIRECT
