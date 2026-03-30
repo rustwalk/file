@@ -2,4 +2,4 @@
 
 [Rule]
 DOMAIN-SUFFIX,rustwalk.com,DIRECT
-DOMAIN-SUFFIX,dyndns.com,DIRECT
+DOMAIN,checkip.synology.com,DIRECT
