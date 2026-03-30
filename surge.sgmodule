@@ -2,4 +2,5 @@
 
 [Rule]
 DOMAIN-SUFFIX,rustwalk.com,DIRECT
+DOMAIN-SUFFIX,github.com,DIRECT
 DOMAIN,checkip.synology.com,DIRECT
